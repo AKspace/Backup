@@ -1,0 +1,6 @@
+c:\users\anura\documents\visual studio 2012\Projects\Seatallocation\Seatallocation\bin\Debug\Seatallocation.exe.config
+c:\users\anura\documents\visual studio 2012\Projects\Seatallocation\Seatallocation\bin\Debug\Seatallocation.exe
+c:\users\anura\documents\visual studio 2012\Projects\Seatallocation\Seatallocation\bin\Debug\Seatallocation.pdb
+c:\users\anura\documents\visual studio 2012\Projects\Seatallocation\Seatallocation\obj\Debug\Seatallocation.csprojResolveAssemblyReference.cache
+c:\users\anura\documents\visual studio 2012\Projects\Seatallocation\Seatallocation\obj\Debug\Seatallocation.exe
+c:\users\anura\documents\visual studio 2012\Projects\Seatallocation\Seatallocation\obj\Debug\Seatallocation.pdb
